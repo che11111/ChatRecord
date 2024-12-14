@@ -1,0 +1,5 @@
+name: ChatRecord
+version: '1.0.1-SNAPSHOT'
+main: com.che1sBukkit.chatrecord.Main
+api-version: '1.13'
+author: che1s

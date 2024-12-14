@@ -1,0 +1,24 @@
+# 修改本配置后请重启插件
+
+#私聊指令列表
+msg-command-list:
+  - msg
+  - tell
+  - w
+
+# < MySQL 8 >
+# CREATE TABLE IF NOT EXISTS `{table}` (
+#     `id` INT AUTO_INCREMENT PRIMARY KEY,
+#     `name` varchar(20) NOT NULL,
+#     `time` varchar(20) NOT NULL,
+#     `message` varchar(255) NOT NULL
+# ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+mysql:
+  host: 127.0.0.1
+  port: 3306
+  database: minecraft
+  table: chat_record
+  user: root
+  password: "123456"
+  useSSL: false
+

@@ -1,6 +1,6 @@
-# MessageRecord
+# ChatRecord
 
-
+<img src="AutoFirework.png" width="310" height="300" alt="image">
 
 ## 插件功能
 

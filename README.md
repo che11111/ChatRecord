@@ -6,7 +6,7 @@
 
 It records players' chat messages and private messages, and stores the chat messages of players in the game in the database.
 
-For example, it would look like this (a form in the database):
+For example, it would look like this (a sheet in the database):
 
 | id   | name  | time                | message  |
 | ---- | ----- | ------------------- | -------- |

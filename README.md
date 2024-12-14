@@ -1,4 +1,4 @@
-# MessageRecord
+# ChatRecord
 
 <img src="ChatRecord.png" width="310" height="300" alt="image">
 

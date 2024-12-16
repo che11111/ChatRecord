@@ -18,7 +18,7 @@ For example, it would look like this (a sheet in the database):
 
 **Tested Version**: 1.20.1
 
-**Server Software**: Bukkit-based
+**Server Software**: Spigot、Bukkit etc
 
 **Database**: Only supports MySQL
 

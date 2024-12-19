@@ -43,6 +43,6 @@ mysql:
   database: minecraft
   table: message_record
   user: root
-  password: "123456"
+  password: "Please enter and do not delete double quotes."
   useSSL: false
 ``` 
